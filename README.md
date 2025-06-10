@@ -8,7 +8,7 @@ API ini digunakan untuk memprediksi **rating** dari tempat wisata berdasarkan **
 ## 🌐 Endpoint
 
 **Base URL**  
-`http://[DOMAIN_KAMU]/predict`
+`http://127.0.0.1:5000/predict`
 
 **Method**  
 `POST`
